@@ -175,15 +175,12 @@ A platform designed for sports performance and medical management, including inj
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansikhistariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mansikhistariya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mansikhistariya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansikhistariya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansikhistariya&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mansikhistariya&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
